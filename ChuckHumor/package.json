@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.8",
+    "apollo-server-express": "^3.13.0",
+    "cross-fetch": "^4.0.0",
+    "graphql": "^16.8.1",
+    "less": "^4.2.0",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "chuckhumor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
